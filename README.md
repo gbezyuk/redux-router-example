@@ -1,3 +1,5 @@
+THIS PROJECT IS NOT SUPPORTED
+
 # redux-router-universal-example
 currently just a cleaned up server-rendering example from the original redux-router repository
 
